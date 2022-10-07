@@ -1,6 +1,2 @@
-<!DOCTYPE html>
-<html>
-    <body>
-        <% out.println("Hola mundo"); %>
-    </body>
-</html>
+<%@ page language='java' %>
+<%="Hola Menorca" %>

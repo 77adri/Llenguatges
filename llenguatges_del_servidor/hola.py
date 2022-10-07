@@ -1,2 +1,2 @@
-hola,ramis
+print("¡Hola, mundo!")
 

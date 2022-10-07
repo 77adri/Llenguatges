@@ -1,2 +1,1 @@
-hola,ramis
-
+print "Hola Menorca\n"
